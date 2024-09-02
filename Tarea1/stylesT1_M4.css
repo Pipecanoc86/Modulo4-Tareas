@@ -1,0 +1,44 @@
+.Botton_VerData{
+    width: 200px;
+    height: 40px;
+    background-color: grey;
+    color:white;
+    border-radius: 3px;
+    padding:10px;
+    border-color: black;
+    margin-left: 50px;
+    margin-right: 270px;
+}
+
+.Box_contenido{
+    text-align: center;
+    width: 300px;
+    background-color: rgb(66, 156, 96);
+    height: 380px;
+    border: 1px solid black;
+    border-radius: 4px;
+    margin-top: 20px;
+}
+
+.texto1{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:15px;
+    font-weight:700;
+    color: black;
+}
+
+.texto2{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:larger;
+    font-weight:900;
+    color: black;
+}
+
+img {
+    margin-top: 20px;
+    width: 190px;
+    height: auto;
+    border-radius: 100%;
+    border: 2px solid black;
+    transition: width 4s, border-color 2s;
+}
