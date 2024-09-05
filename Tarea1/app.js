@@ -13,4 +13,6 @@ const mostrarData = async() =>{
                             <p class="texto2">${data.results[0].name.first} ${data.results[0].name.last}</p>`
 }
 
+mostrarData();
+
 boton.addEventListener('click', mostrarData);

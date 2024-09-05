@@ -14,7 +14,7 @@
     text-align: center;
     width: 300px;
     background-color: rgb(66, 156, 96);
-    height: 380px;
+    height: 410px;
     border: 1px solid black;
     border-radius: 4px;
     margin-top: 20px;
@@ -25,6 +25,12 @@
     font-size:15px;
     font-weight:700;
     color: black;
+    background-color: rgb(175, 186, 186);
+    margin: 20px;
+    border-radius: 5px;
+    text-align: center;
+    height: 20px;
+    width: auto;
 }
 
 .texto2{
@@ -32,6 +38,10 @@
     font-size:larger;
     font-weight:900;
     color: black;
+    background-color: white;
+    margin: 20px;
+    border-radius: 5px;
+    height: auto;
 }
 
 img {
