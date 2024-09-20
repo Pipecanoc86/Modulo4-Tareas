@@ -28,7 +28,7 @@ function App() {
 
   return (
     <div>
-         <img className="logoR_M"></img>
+      <div className='Contenedor_logo'><img className="logoR_M" src='./Rick&Morty.jpg'></img></div>
          <div className="Container_Personajes">
           {
             personajes.map((item) => {
