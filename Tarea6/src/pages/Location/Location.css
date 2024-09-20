@@ -1,0 +1,32 @@
+.Location_card{
+    width: 310px;
+    height: 190px;
+    border: 12px solid rgb(255, 234, 0);
+    background-color: white;
+    border-radius: 10px;
+  }
+    
+.Container_Location{
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+  
+body{
+    background-color: black;
+  }
+  
+.logoR_M{
+    width: 100%;
+    height: 100%;
+  
+  }
+  
+  .Contenedor_logo{
+    width: 400px;
+    height: 130px;
+    margin: auto;
+    margin-bottom: 60px;
+  }
